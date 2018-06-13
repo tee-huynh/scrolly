@@ -1,7 +1,8 @@
-## D3 Scrollytelling Demo
+## Storytelling + Conditions
 
+Based off on and used:
+Credits: 
 Example code of how you might make a basic scrollytelling site using [D3](https://d3js.org/).
-
 [Demo Here](http://vallandingham.me/scroll_demo/).
 
 This code has been **updated to use D3v4**.
